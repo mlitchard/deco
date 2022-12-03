@@ -29,5 +29,5 @@ For details, see: https://srid.ca/haskell-template/start
   - Adding Garnix CI: https://srid.ca/haskell-template/garnix
 
 ## Discussions
-
+.
 Questions? Ideas? Suggestions? You may post them here: https://github.com/srid/haskell-template/discussions
